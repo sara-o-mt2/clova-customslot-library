@@ -1,3 +1,6 @@
+CLOVA デバイス販売終了およびCLOVAデバイスにおけるCLOVA Assistantサービス終了に伴い、archiveします
+https://clova-blog-ja.line.me/archives/17249401.html
+
 # はじめに
 皆さんVUIスキルづくり、順調ですか？
 LINEのスマートスピーカー、Clovaスキルでカスタムスロットを作るのが
